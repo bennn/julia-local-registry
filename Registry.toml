@@ -1,0 +1,5 @@
+name = "julia-local-registry"
+uuid = "cf7cacaf-8050-4407-8d86-ab68607be260"
+repo = "https://github.com/bennn/julia-local-registry"
+
+[packages]
